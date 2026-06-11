@@ -1,0 +1,25 @@
+{
+  "name": "com.fms.singleton",
+  "version": "1.0.0",
+  "displayName": "Singleton",
+  "description": "Author: Jorge Nauel Gerones.\nA Simple Singleton Pattern",
+  "unity": "2021.1",
+  "unityRelease": "1f2",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fractured-Mesh-Studios/com.fms.singleton.git"
+  },
+  "keywords": [
+    "Singleton",
+    "Pattern",
+    "JNG"
+  ],
+  "author": {
+    "name": "Fractured Mesh Studios",
+    "url": "https://www.unity3d.com",
+    "email": "gerones.jorge@gmail.com"
+  }
+}
